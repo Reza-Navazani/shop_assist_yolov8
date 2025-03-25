@@ -1,0 +1,7 @@
+ultralytics 
+gradio 
+opencv-python 
+requests
+libzbar0
+pyzbar
+huggingface_hub
